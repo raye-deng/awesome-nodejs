@@ -225,6 +225,7 @@
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 - [discharge](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
 - [npkill](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node_modules folders.
+- [Open Code Review](https://github.com/raye-deng/open-code-review) - AI-powered code quality gate that detects AI-specific bugs (phantom packages, outdated APIs, context breaks, security anti-patterns, over-engineering) that traditional linters miss.
 
 ### Functional programming
 
